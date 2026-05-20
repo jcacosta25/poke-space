@@ -36,3 +36,8 @@ Use the run button in your IDE's editor gutter, or run tests using Gradle tasks:
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
+<img width="1280" height="2856" alt="Screenshot_20260520_125500" src="https://github.com/user-attachments/assets/8efd3574-2154-4279-8d8f-f60d5117606c" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-05-20 at 13 14 40" src="https://github.com/user-attachments/assets/b77bf4e6-70e3-43bb-98de-9d6ec4d87aeb" />
+
